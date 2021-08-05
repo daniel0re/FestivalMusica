@@ -1,0 +1,11 @@
+.footer {
+    background-color: $rosa;
+    padding: $separacion / 4;
+    text-align: center;
+    p {
+        margin: 0;
+        color: $blanco;
+        font-weight: $delgada;
+        font-size: 1.8rem;
+    }
+}
